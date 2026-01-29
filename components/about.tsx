@@ -114,7 +114,7 @@ export function About() {
 
             <div className="relative h-full rounded-3xl overflow-hidden bg-gradient-to-br from-primary/10 to-accent/10 border border-border/50">
               <Image
-                src="/subhan.jpg"
+                src="/subhan.png"
                 alt="Profile"
                 fill
                 className="object-cover group-hover:scale-105 transition-transform duration-500"
